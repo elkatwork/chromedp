@@ -15,6 +15,7 @@ var chromeNames = []string{
 	"google-chrome",
 	"chromium-browser",
 	"chromium",
+	"google-chrome-stable",
 	"google-chrome-beta",
 	"google-chrome-unstable",
 }
